@@ -7,9 +7,6 @@ Mi Card is a simple Flutter UI that displays a personal mobile number with a nam
 - Display a personal business card
 - Show name and phone number prominently
 
-## Getting Started
-
-These instructions will help you set up the project on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -23,7 +20,7 @@ These instructions will help you set up the project on your local machine for de
    ```sh
    git clone https://github.com/yourusername/mi_card.git
    
-2. Refer to the flutter documentation for more information about flutter
+2. Refer to the flutter and Dart documentations for more information about flutter and Dart.
    
 ### Note
 
